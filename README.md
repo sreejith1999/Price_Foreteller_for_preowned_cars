@@ -1,8 +1,4 @@
-# ML_Main_Project
-A Machine Learning project that predicts price of second hand cars using different regression techniques
- 
- ## Problem Statement 
- You will be predicting the costs of used cars given the data collected from various sources and distributed across various locations in India.
+# Price Foreteller for pre-owned cars
 
 ## Features
 
