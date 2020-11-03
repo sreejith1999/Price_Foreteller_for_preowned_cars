@@ -6,7 +6,7 @@
 The brand and model of the car.
 
 ### Location 
-The location in which the car is being sold or is available for purchase.
+The location from where the car was bought.
 
 ### Year 
 The year or edition of the model.
